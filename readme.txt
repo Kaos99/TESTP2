@@ -2,5 +2,5 @@
 
 * Para ejecutar el Cliente (desde CMD de Windows):
 
-java -Djava.security.policy=file:///c://Chat/java.policy ChatClient 161.116.184.128 1099
+java -Djava.security.policy=file:///c://Chat/java.policy ChatClient 161.116.184.128 1234
 
